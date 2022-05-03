@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Customer Sign Up</title>
+	<title>Customer Page</title>
 </head>
 <style type="text/css">
 	* {box-sizing: border-box}
